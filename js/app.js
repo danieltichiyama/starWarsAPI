@@ -27,7 +27,7 @@ function showData (data){
     var pElem = document.createElement ('p');
     pElem.id = 'weight';
     pElem.innerHTML = data.mass
-    profile.appendChild (pElem);
+    profile.appendChild (pElem);git 
 }
 
 getData();
